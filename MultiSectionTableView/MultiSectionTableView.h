@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  MultiSectionTableView.h
 //  MultiSectionTableView
 //
 //  Created by Hoàng Thái on 3/5/16.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface MultiSectionTableView : UITableViewController
 
 @end
-
